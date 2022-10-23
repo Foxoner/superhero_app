@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/superhero_app/static/css/main.fa4f252f.css",
-    "main.js": "/superhero_app/static/js/main.a5baa70e.js",
+    "main.js": "/superhero_app/static/js/main.7d96196e.js",
     "static/js/787.b1f56149.chunk.js": "/superhero_app/static/js/787.b1f56149.chunk.js",
     "index.html": "/superhero_app/index.html",
     "main.fa4f252f.css.map": "/superhero_app/static/css/main.fa4f252f.css.map",
-    "main.a5baa70e.js.map": "/superhero_app/static/js/main.a5baa70e.js.map",
+    "main.7d96196e.js.map": "/superhero_app/static/js/main.7d96196e.js.map",
     "787.b1f56149.chunk.js.map": "/superhero_app/static/js/787.b1f56149.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa4f252f.css",
-    "static/js/main.a5baa70e.js"
+    "static/js/main.7d96196e.js"
   ]
 }
